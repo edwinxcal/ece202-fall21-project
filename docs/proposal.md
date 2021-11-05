@@ -41,7 +41,22 @@ Metrics for success at the system and subunit levels are optimizing parameters i
 
 ## 8. Execution Plan
 
-Describe the key tasks in executing your project, and in case of team project describe how will you partition the tasks.
+Key tasks in the project can be assessed as the process of developing a Machine Learning Pipeline for a spoken word, implementation of the localization process, and implementation of the BLE and Openthread processes. Within these processes, a goal is to effectively optimize processing and parameters respectively. The team is partitioning tasks according to priority and familiarity with concepts.
+
+Side tasks Include:
+Wake-word recognition
+LCD screen
+System configuration/setup
+Firmware and Client data processing software
+Data collection
+Audio
+BLE
+Thread
+Initial Results
+Scheduling schemes
+Execution of experiments
+Evaluation of results and presentation (what worked and what didnt)
+
 
 ## 9. Related Work
 
