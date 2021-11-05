@@ -47,15 +47,32 @@ Describe the key tasks in executing your project, and in case of team project de
 
 ### 9.a. Papers
 
-List the key papers that you have identified relating to your project idea, and describe how they related to your project. Provide references (with full citation in the References section below).
+below).
+- Good overview on the indoors localization field (2017) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5580254/ 
+ - Performance evaluation of ble localization work (2014) https://onlinelibrary.wiley.com/doi/10.1002/ett.2864
+- Existing implementation of ble loc on arduino nano sense (2021) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8347277/ 
+- Location fingerprinting with BLE beacons (2015):
+- Location Fingerprinting With Bluetooth Low Energy Beacons.pdf 
+- SurroundSense: mobile phone localization via ambience fingerprinting - https://dl.acm.org/doi/abs/10.1145/1614320.1614350
+- AoA & AoD in Radio localization - https://www.silabs.com/whitepapers/bluetooth-angle-estimation-for-real-time-locationing 
+
 
 ### 9.b. Datasets
 
-List datasets that you have identified and plan to use. Provide references (with full citation in the References section below).
+"Warden P. Speech Commands: A public dataset for single-word speech recognition, 2017. Available from: http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz".
 
 ### 9.c. Software
 
-List softwate that you have identified and plan to use. Provide references (with full citation in the References section below).
+- Arduino libs for prototyping
+- Nordic SDK/softdevices
+- nRF Connect for Desktop
+- Python nRF sniffer (802.15.4/BLE)
+- TinyML
+- Openthread
+- Mbed OS
+- Zephyr OS
+- https://www.openbeacon.org/about.html 
+
 
 ## 10. References
 
